@@ -1,0 +1,5 @@
+Laravel:
+- Creating models commands:
+  1. php artisan make:model model_name -mcrR
+  (m: migration, c: controller, r: resource, R: request)
+  
